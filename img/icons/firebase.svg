@@ -1,0 +1,10 @@
+
+    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>firebase Icons</title>
+    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" width="99%" fill="none" stroke-opacity="1"/>
+    <svg width="48" height="48" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 37L23.234 8.436a.84.84 0 011.494.02L30 19 8 37z" fill="#FF8F00"/><path d="M8 36.992l5.546-34.2c.145-.894 1.347-1.088 1.767-.284L26 22.992l-18 14z" fill="#FFA000"/><path d="M8.008 36.986l.2-.157 17.53-14.341-4.945-9.476L8.008 36.986z" fill="#FF6F00"/><path d="M8 37l26.666-25.713a.954.954 0 011.606.547L40 37l-15 8.743a2.002 2.002 0 01-1.961 0L8 37z" fill="#FFC400"/></svg>
+    <path d="M29.2516 33.093C33.73 30.5067 37.4716 27.0685 39.6534 23.5348C41.8352 20.0011 42.2785 16.6613 40.8857 14.2501C40.7862 14.0779 40.8277 13.8337 41.0009 13.5712C41.1742 13.3088 41.465 13.0496 41.8095 12.8506C42.154 12.6517 42.5239 12.5293 42.8378 12.5104C43.1518 12.4915 43.384 12.5776 43.4835 12.7499C44.8763 15.161 44.1593 18.6589 41.4903 22.4739C38.8213 26.289 34.4189 30.1088 29.2516 33.093V33.093Z" fill="gold">
+                      <animateTransform attributeName="transform" type="rotate" from="180 0 0" to="0 0 0" dur="1s" repeatCount="indefinite" />
+                      </path>
+    
+    </svg>

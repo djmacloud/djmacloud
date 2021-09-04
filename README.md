@@ -5,7 +5,7 @@ Olá pessoal,
 Diogo Fagundes aqui. Publicitário, ex-dj, apaixonado por fotografia, gatos, música, motos, drones e tecnologia.
 
 
-## Uma breve introdução
+## Uma breve histórico
 
 Trabalho com tecnologia desde 1998, trabalhei com a gestão e manutenção de pequenas redes e servidores, hardware e infraestrutura, me envolvi com programação e apesar de ter tido um contato bem rápido com diversas linguagens e tecnologias, me acertei mesmo com o universo da criação para a web principalmente envolvendo PHP e Mysql.
 
@@ -17,7 +17,10 @@ Operando com criação de sites por mais de 1 década, tive contato com diversos
 
 A Vila do Site encerrou suas atividades em meados de 2021 por conta dos efeitos que a pandemia trouxe à pequenas empresas e com isso iniciei uma nova etapa na carreira de desenvolvimento de software.
 
-Atualmente atuo como **Product Owner** na [Calindra](https://calindra.tech/) desenvolvendo uma plataforma que permite integrações entre a [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras.
+
+## O momento atual
+
+Atualmente atuo como **Product Owner** na [Calindra](https://calindra.tech/), desenvolvendo uma plataforma que permite integrações entre a [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras.
 
 
 ## Como falar comigo

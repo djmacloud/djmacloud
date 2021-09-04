@@ -31,12 +31,6 @@ Atualmente atuo como **Product Owner** na [Calindra](https://calindra.tech/), de
 
 
 
-## Linguagens mais utilizadas
-
-<img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djmacloud&theme=react&layout=compact" />
-
-
-
 ## Desenvolvimento, linguagens, tecnologias e frameworks
 
 <a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/html5.svg" width="50px"></a>

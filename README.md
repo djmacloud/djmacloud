@@ -15,7 +15,7 @@ Com isso obtive uma boa visão do que eu queria na vida: trabalhar em negócios 
 
 Operando com criação de sites por mais de 1 década, tive contato com diversos sistemas e ferramentas para desenvolvimento web e a oportunidade de abrir minha própria empresa, a [Vila do Site](https://viladosite.com.br) que fechou o ciclo de aprendizados e oportunidades de juntar todo o conhecimento de gestão e negócios com o conhecimento em tecnologia.
 
-A Vila do Site encerrou suas atividades em meados de 2021 por conta dos efeitos que a pandemia trouxe à pequenas empresas e com isso iniciei uma nova etapa na carreira de desenvolvimento de software.
+A Vila do Site encerrou suas atividades em meados de 2021 por conta dos efeitos que a pandemia trouxe à pequenas empresas e com isso iniciei uma nova etapa na carreira de Product Owner na [Calindra](https://calindra.tech/) em contato com diversos times ligados ao desenvolvimento de sistemas para a Ame Digital.
 
 
 ## O momento atual

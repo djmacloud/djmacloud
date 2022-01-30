@@ -9,18 +9,21 @@ Diogo Fagundes aqui. Publicitário, ex-dj, apaixonado por fotografia, gatos, mú
 
 Trabalho com tecnologia desde 1998, trabalhei com a gestão e manutenção de pequenas redes e servidores, hardware e infraestrutura, me envolvi com programação e apesar de ter tido um contato bem rápido com diversas linguagens e tecnologias, me acertei mesmo com o universo da criação para a web principalmente envolvendo PHP e Mysql.
 
-Fora do mundo de redes, hardware e desenvolvimento, tive a oportunidade de trabalhar com diversas áreas como fotografia, cobertura, sonorização e produção de eventos, música, pesquisa, assessoria de comunicação e marketing e mesmo diante de tantas áreas diferentes o denominador comum sempre foi o uso da tecnologia como solucionadora de problemas.
+Fora do mundo de redes, hardware e desenvolvimento, tive a oportunidade de trabalhar com diversas áreas como fotografia, cobertura, sonorização e produção de eventos, produção musical, pesquisa de opinião e de mercado, assessoria de comunicação e marketing, entre outras.
+
+Mesmo diante de tantas áreas diferentes o denominador comum sempre foi um só:
+o uso da tecnologia como solucionadora de problemas
 
 Com isso obtive uma boa visão do que eu queria na vida: trabalhar em negócios que explorem a oportunidade de mudar a vida das pessoas através da tecnologia.
 
-Operando com criação de sites por mais de 1 década, tive contato com diversos sistemas e ferramentas para desenvolvimento web e a oportunidade de abrir minha própria empresa, a [Vila do Site](https://viladosite.com.br) que fechou o ciclo de aprendizados e oportunidades de juntar todo o conhecimento de gestão e negócios com o conhecimento em tecnologia.
+Operando com criação de sites por mais de 1 década, tive contato com diversos sistemas e ferramentas para desenvolvimento web e a oportunidade de fundar a [Vila do Site](https://viladosite.com.br) que foi a oportunidade definitiva de juntar todo o conhecimento de gestão e negócios com o conhecimento em tecnologia realizando o sonho de poder criar e desenvolver soluções para fazer a diferença.
 
-A Vila do Site encerrou suas atividades em meados de 2021 por conta dos efeitos que a pandemia trouxe à pequenas empresas e com isso iniciei uma nova etapa na carreira de Product Owner na [Calindra](https://calindra.tech/) em contato com diversos times ligados ao desenvolvimento de sistemas para a Ame Digital.
+A Vila do Site encerrou suas atividades em meados de 2021 por conta dos efeitos e dificuldades que a pandemia trouxe à pequenas empresas e com isso iniciei uma nova etapa na carreira de Product Owner na [Calindra](https://calindra.tech/) atuando junto à liderança de diversos times ligados ao desenvolvimento de sistemas para a [Ame Digital](https://www.amedigital.com/).
 
 
 ## O momento atual
 
-Atualmente atuo como **Product Owner** na [Calindra](https://calindra.tech/), desenvolvendo uma plataforma que permite integrações entre a [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras.
+Atualmente atuo como **Product Owner** na [Calindra](https://calindra.tech/), desenvolvendo a plataforma que permite integrações entre a [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras e facilitando o desenvolvimento e a criação de oportunidades de negócios que refletem novos recursos e possibilidades para facilitar o dia-a-dia e a vida dos usuários do aplicativo da Ame.
 
 
 ## Como falar comigo
@@ -33,20 +36,20 @@ Atualmente atuo como **Product Owner** na [Calindra](https://calindra.tech/), de
 
 ## Desenvolvimento, linguagens, tecnologias e frameworks
 
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/html5.svg" width="50px"></a>
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/css.svg" width="50px"></a>
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/javascript.svg" width="50px"></a>
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/bootstrap.svg" width="50px"></a>
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/git.svg" width="50px"></a>
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/github.svg" width="50px"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/html5.svg" width="50px"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/css.svg" width="50px"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/javascript.svg" width="50px"></a>
+<a href="https://getbootstrap.com/"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/bootstrap.svg" width="50px"></a>
+<a href="https://git-scm.com/"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/git.svg" width="50px"></a>
+<a href="https://github.com/"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/github.svg" width="50px"></a>
 
 
 
 ## Prototipagem e design
 
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/adobexd.svg" width="50px"></a>
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/photoshop.svg" width="50px"></a>
-<a href="#"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/figma.svg" width="50px"></a>
+<a href="https://www.adobe.com/br/products/xd.html"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/adobexd.svg" width="50px"></a>
+<a href="https://www.adobe.com/br/products/photoshop.html"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/photoshop.svg" width="50px"></a>
+<a href="https://www.figma.com/"><img src="https://github.com/djmacloud/djmacloud/raw/main/img/icons/figma.svg" width="50px"></a>
 
 
 ## Outras tecnologias e ferramentas que já tive contato

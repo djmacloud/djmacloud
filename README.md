@@ -7,23 +7,23 @@ It's Diogo Fagundes. Advertising Professional, ex-dj, lover of many things like 
 
 ## A brief history
 
-I work with technology since 1998, managing and maintaining small networks and servers, hardware and infrastructure. I ended up learning HTML and soon I was programming and having a brief contact with a lot of languages and technologies. It doesn't took me much time to find out that my passion was creating websites, by this time using HTML, CSS, Javascript, PHP and MYSQL.
+I work with technology since 1998 leading development teams. Started managing and maintaining small networks and servers, hardware and infrastructure...ended up learning HTML and soon I was programming and having a brief contact with a lot of languages and technologies. It doesn't took me much time to find out that my passion was creating websites, by this time using HTML, CSS, Javascript, PHP and MYSQL.
 
-Outsite the networks, hardware and development universe, I had oportunity to work with a variety of areas like photography, covering and producing events and parties, survey and market research, communication and marketing advice and a few more areas.
+Outsite the networks, hardware and development universe, I had oportunity to work with a variety of areas like photography, covering and producing events and parties, survey and market research, communication and marketing advice and a few other areas.
 
 Even facing so many diferent possibilities, the converging point was always one:
-technology as tool to solve peoples problems
+technology as tool to solve people problems
 
-The goal for my life and my carreer was getting clear: work on bussiness that could change peoples lifes through technology.
+The goal for my life and my carreer was getting clear: work on bussiness that could change people's lifes through technology.
 
-Working with web creation for basically 2 decades, I've been in contact with different developing systems and tools and had the opportunity to found my own agency [Vila do Site](https://viladosite.com.br) when I was able to get all the bussiness management and tech knowledge togheter and make a dream come true by creating and developing solutions to efectivelly make the difference in small bussiness.
+Working with web creation for basically 2 decades, I've been in contact with different developing systems and tools and had the opportunity to found my own agency (Vila do Site) when I was able to get all the bussiness management and tech knowledge togheter and make a dream come true by creating and developing solutions to efectivelly make the difference in small bussiness.
 
-Unfortunally Vila do Site had difficult times handling the COVID-19 pandemic as most small bussiness and has been shut it's activities down in 2021. Since then I've been working as Product Owner at [Calindra](https://calindra.tech/) leading development teams that mantain [Ame Digital](https://www.amedigital.com/)'s miniapp platform.
+Unfortunally Vila do Site had difficult times handling the COVID-19 pandemic effects as most small bussiness and had to close doors in 2021. Since then I've been working as Product Owner at [Calindra](https://calindra.com.br) leading development teams that mantain [Ame Digital](https://www.amedigital.com/)'s miniapp platform.
 
 
 ## Actually
 
-Actually I work as **Product Owner**/**Bussiness Developer** at [Calindra](https://calindra.tech/), developing the [miniapps platform](https://developer.ame.calindra.com.br/) that allow bussiness partners to integrate miniapps into [Ame Digital](https://www.amedigital.com/)'s Superapp and making possible to bring new solutions to daily users problems inside Ame's Superapp in a fast, reliable, secure, scalable and simple way.
+Actually I work as **Product Owner**/**Bussiness Developer** at [Calindra](https://calindra.com.br), developing the [miniapps platform](https://developer.ame.calindra.com.br/) that allow bussiness partners to integrate miniapps into [Ame Digital](https://www.amedigital.com/)'s Superapp and making possible to bring new solutions to daily users problems inside Ame's Superapp in a fast, reliable, secure, scalable and simple way.
 
 
 ## How to contact me

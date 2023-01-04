@@ -16,14 +16,14 @@ o uso da tecnologia como solucionadora de problemas
 
 Com isso obtive uma boa visão do que eu queria na vida: trabalhar em negócios que explorem a oportunidade de mudar a vida das pessoas através da tecnologia.
 
-Operando com criação de sites por mais de 1 década, tive contato com diversos sistemas e ferramentas para desenvolvimento web e a oportunidade de fundar a [Vila do Site](https://viladosite.com.br) que foi a oportunidade definitiva de juntar todo o conhecimento de gestão e negócios com o conhecimento em tecnologia realizando o sonho de poder criar e desenvolver soluções para fazer a diferença.
+Operando com criação de sites por mais de 1 década, tive contato com diversos sistemas e ferramentas para desenvolvimento web e a oportunidade de fundar a minha própria agência de criação para a web (Vila do Site) que foi a oportunidade definitiva de juntar todo o conhecimento de gestão e negócios com o conhecimento em tecnologia realizando o sonho de poder criar e desenvolver soluções para fazer a diferença.
 
-A Vila do Site encerrou suas atividades em meados de 2021 por conta dos efeitos e dificuldades que a pandemia trouxe à pequenas empresas e com isso iniciei uma nova etapa na carreira de Product Owner na [Calindra](https://calindra.tech/) atuando junto à liderança de diversos times ligados ao desenvolvimento de sistemas para a [Ame Digital](https://www.amedigital.com/).
+Infelizmente a Vila do Site encerrou suas atividades em meados de 2021 por conta dos efeitos e dificuldades que a pandemia do COVID-19 trouxe à pequenas empresas e com isso iniciei uma nova etapa na carreira de Product Owner na [Calindra](https://calindra.com.br) atuando junto à liderança dos times ligados ao desenvolvimento da plataforma de miniapps da [Ame Digital](https://www.amedigital.com/).
 
 
 ## O momento atual
 
-Atualmente atuo como **Product Owner** na [Calindra](https://calindra.tech/), desenvolvendo a plataforma que permite integrações entre a [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras e facilitando o desenvolvimento e a criação de oportunidades de negócios que refletem novos recursos e possibilidades para facilitar o dia-a-dia e a vida dos usuários do aplicativo da Ame.
+Atualmente atuo como **Product Owner** na [Calindra](https://calindra.com.br) coordeno os times da plataforma que permite integrações entre a [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras e oferece uma maneira confiável, segura, dinâmica e prática de compartimentarizar o desenvolvimento dos diversos e diferentes times de desenvolvimento da Ame Digital e ajuda a criar oportunidades de negócios que resultam em novos recursos e possibilidades para os usuários do aplicativo da Ame.
 
 
 ## Como falar comigo

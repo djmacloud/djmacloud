@@ -2,7 +2,7 @@
 
 Olá pessoal,
 
-Diogo Fagundes aqui. Publicitário, ex-dj, apaixonado por fotografia, gatos, música, motos, drones e tecnologia.
+Diogo Fagundes aqui. Producet Manager, Publicitário, ex dj e programador, apaixonado por fotografia, gatos, música, motos, drones e tecnologia.
 
 
 ## Uma breve histórico

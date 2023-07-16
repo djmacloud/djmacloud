@@ -2,7 +2,7 @@
 
 Hi guys,
 
-It's Diogo Fagundes. Advertising Professional, ex-dj, lover of many things like photography, cats, music, motorcycles, drones and technology.
+It's Diogo Fagundes...Product Manager,  Advertising Professional, former dj and developer, lover of many things like photography, cats, music, motorcycles, drones and technology.
 
 
 ## A brief history

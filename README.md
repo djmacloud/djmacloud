@@ -23,7 +23,12 @@ Unfortunally Vila do Site had difficult times handling the COVID-19 pandemic eff
 
 ## Actually
 
-Actually I work as **Product Owner**/**Bussiness Developer** at [Calindra](https://calindra.com.br), developing the [miniapps platform](https://developer.ame.calindra.com.br/) that allow bussiness partners to integrate miniapps into [Ame Digital](https://www.amedigital.com/)'s Superapp and making possible to bring new solutions to daily users problems inside Ame's Superapp in a fast, reliable, secure, scalable and simple way.
+Actually I work as **Product Manager**/**Bussiness Developer** at [Calindra](https://calindra.com.br), developing the [miniapps platform](https://developer.ame.calindra.com.br/) that allow bussiness partners to integrate miniapps into [Ame Digital](https://www.amedigital.com/)'s Superapp and making possible to bring new solutions to daily users problems inside Ame's Superapp in a fast, reliable, secure, scalable and simple way.
+
+Furthermore, I'm part of [Eitri](https://www.site.eitri.calindra.com.br/) team, a new development platform that was created based on Calindra's years of experience on mobile development for main e-commerce brazillian market players.  
+
+Eitri is a mobile development platform that makes it easy to develop and publish new features in your app and helps to lower costs and raise productivity, enhancing software delivery and allowing you to focus on product with intelligent metrics that strengthen your product performance.
+
 
 
 ## How to contact me

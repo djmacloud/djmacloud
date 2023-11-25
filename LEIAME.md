@@ -23,7 +23,12 @@ Infelizmente a Vila do Site encerrou suas atividades em meados de 2021 por conta
 
 ## O momento atual
 
-Atualmente atuo como **Product Owner** na [Calindra](https://calindra.com.br) coordeno os times da plataforma que permite integrações entre a [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras e oferece uma maneira confiável, segura, dinâmica e prática de compartimentarizar o desenvolvimento dos diversos e diferentes times de desenvolvimento da Ame Digital e ajuda a criar oportunidades de negócios que resultam em novos recursos e possibilidades para os usuários do aplicativo da Ame.
+Atualmente atuo como **Product Manager**/**Bussiness Developer** na [Calindra](https://calindra.com.br) coordeno os times da [plataforma de miniapps](https://developer.ame.calindra.com.br/) que permite integrações entre o Superapp da [Ame Digital](https://www.amedigital.com/) e suas empresas parceiras e oferece uma maneira confiável, segura, dinâmica e prática de compartimentarizar o desenvolvimento dos diversos e diferentes times de desenvolvimento da Ame Digital e ajuda a criar oportunidades de negócios que resultam em novos recursos e possibilidades para os usuários do aplicativo da Ame.
+
+Alem disso, componho a equipe de desenvolvimento do [Eitri](https://www.site.eitri.calindra.com.br/), uma plataforma baseada nos anos de experiência e aprendizado no desenvolvimento de apps para alguns dos maiores players do mercado brasileiro.
+
+O Eitri é uma plataforma para desenvolvimento mobile que facilita e agiliza o desenvolvimento e publicação de novas features em seu app que ajuda a diminuir seus custos, aumentar a produtividade e potencializar suas entregas focando no produto com métricas inteligentes que favorecem o desempenho do produto.
+
 
 
 ## Como falar comigo
